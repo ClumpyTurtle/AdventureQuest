@@ -3,7 +3,3 @@
 Simply download the zip file, extract it, and double click on '2D RPG.exe' to play
 
 Disclaimer: This is a very new game, expect it to have very little functionality in its current state
-
-<H2>Source Code</H2>
-
-All user-created source code is located in the Assets folder
